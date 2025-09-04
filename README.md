@@ -15,6 +15,8 @@ This repository contains the code and methodology for the "Target Reply – RUL 
 - **Submission:** For each test engine, predict RUL at its last observed cycle.
 - **Evaluation:** Mean Squared Error (MSE) between predicted and actual RUL.
 
+For more info: [Official Kaggle Competition](https://www.kaggle.com/competitions/target-reply-rul-estimation-of-turbofan-engines/overview)
+
 ## Solution Approach
 
 Our solution evolved from deep feature engineering to a streamlined, robust approach that generalized best on unseen data:
