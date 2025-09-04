@@ -66,7 +66,3 @@ This approach replaces earlier, more complex features (onset detection, change s
 
 For questions or collaborations, contact [emanueleiacca](https://github.com/emanueleiacca).
 
----
-
-**Summary:**  
-This repo demonstrates how careful feature engineering, data splitting, and a simple, regularized model can outperform more complex pipelines in RUL prediction challenges. The final approach uses sliding window statistics, regime flags, and Ridge regression for robust, interpretable, and accurate engine health forecasting.
